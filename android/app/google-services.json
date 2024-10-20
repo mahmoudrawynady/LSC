@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "169947614361",
+    "project_id": "lsc-app-d24c6",
+    "storage_bucket": "lsc-app-d24c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169947614361:android:c2bc54377bf548b89abc08",
+        "android_client_info": {
+          "package_name": "com.mosanda.lsc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBRjGPZcii_c2jLPpnnZF7_yMgufK9O-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
